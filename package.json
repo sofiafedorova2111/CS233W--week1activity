@@ -1,0 +1,22 @@
+{
+  "name": "cs233w-week1activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiafedorova2111/CS233W--week1activity.git"
+  },
+  "author": "Sofia Fedorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiafedorova2111/CS233W--week1activity/issues"
+  },
+  "homepage": "https://github.com/sofiafedorova2111/CS233W--week1activity#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
